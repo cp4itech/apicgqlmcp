@@ -19,9 +19,9 @@ The sample leverages a capability within VS Code to deal with [MCP Servers](http
 ## Steps to use MCP in APIC for GraphQL
 ### Prepare
 <br>
-1. create an **empty folder** to work in and open it in VS Code
+1. create an empty folder to work in and open it in VS Code
 <br><br>
-2. type `**>**` or F1 to get the commands and look for **MCP: Add Server**<br>
+2. type `>` or F1 to get the commands and look for MCP: Add Server<br>
 <img width="889" height="129" alt="image" src="https://github.com/user-attachments/assets/6be916e4-0eda-404f-a3c3-cbbd629e5909" /><br>
 <br>
 3. Select **HTTP (HTTP or Server-Sent-Events)**<br>
