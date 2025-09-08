@@ -41,8 +41,8 @@ The sample leverages a capability within VS Code to deal with [MCP Servers](http
 6. Add the MCP Server as context (search for mcp.json) <br>
    <img width="270" height="113" alt="image" src="https://github.com/user-attachments/assets/1e036a46-973a-476d-b167-58dd32f264cc" /><br>
 <br>
-7. Make sure you set the mode in the chat to Agent<br>
-<img width="472" height="121" alt="image" src="https://github.com/user-attachments/assets/7d9c25b0-eb12-49a9-97a9-a995fd7f06a9" />
+7. Make sure you set the mode in the chat to Agent and have the display of mcp.json that you just added<br>
+<img width="408" height="120" alt="image" src="https://github.com/user-attachments/assets/a074dd95-37dc-4b71-9fb0-37bc1e58009e" />
 <br>
 8. **Ask a question** like "In which episodes does R2D2 appear?"<br>
 The output indicating the MCP-Server has being used, will look like this<br>
