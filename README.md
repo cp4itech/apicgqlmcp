@@ -13,7 +13,7 @@ https://stepzen-chester.us-east-a.ibm.stepzen.net/examples/starwars/mcp
 > [!IMPORTANT]
 > The MCP Endpoint is created by default by API Connect for GraphQL
 
-The sample leverages a capability within VS Code to deal with [MCP Servers](https://code.visualstudio.com/docs/copilot/customization/mcp-servers)
+The sample leverages a capability within VS Code to deal with <a href="https://code.visualstudio.com/docs/copilot/customization/mcp-servers" target="_blank">MCP Servers</a>
 
 <br><br>
 ## Steps to use MCP in APIC for GraphQL
