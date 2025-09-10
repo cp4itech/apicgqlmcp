@@ -44,7 +44,10 @@ The sample leverages a capability within VS Code to deal with <a href="https://c
 7. Make sure you set the mode in the chat to Agent and have the display of mcp.json that you just added<br>
 <img width="408" height="120" alt="image" src="https://github.com/user-attachments/assets/a074dd95-37dc-4b71-9fb0-37bc1e58009e" />
 <br>
-8. **Ask a question** like "In which episodes does R2D2 appear?"<br>
+8. Make sure you set the LLM to Claude Sonnet<br><br>
+<img width="500" height="108" alt="image" src="https://github.com/user-attachments/assets/f33569a2-1fe3-4712-a758-2e4933cadb9f" />
+<br><br>
+9. **Ask a question** like "In which episodes does R2D2 appear?"<br>
 The output indicating the MCP-Server has being used, will look like this<br>
 <img width="273" height="361" alt="image" src="https://github.com/user-attachments/assets/21733fe2-9b76-47cd-9d84-c66514fef5b6" /><br>
 Expand the area in the rectangle to see the details on query and response.
